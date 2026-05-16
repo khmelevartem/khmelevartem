@@ -1,8 +1,8 @@
 Hi! My name is Artyom Khmelyov and I'm from Saint-Petersburg.
 
-I work and evolve as an Android developer.
+I work and evolve as an Kotlin Multiplatform (originally Android) developer.
 
-Right now I'm developing some small util applications, which you can find in my repositories.
+Right now I'm developing some util applications, which you can find in my repositories.
 
 You can contact me with
 - telegram: @tube_toast
